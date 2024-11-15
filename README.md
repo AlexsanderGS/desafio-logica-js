@@ -33,3 +33,9 @@ Este desafio permitiu a aplicação de conceitos fundamentais de **JavaScript**,
 - Construção de mensagens dinâmicas no console.
 
 Com essas ferramentas, foi possível criar uma solução prática e funcional para classificar heróis com base em sua experiência (XP). Essa lógica pode ser facilmente expandida ou adaptada para outros contextos, como jogos ou sistemas de progressão.
+
+
+## Certificado
+![image](https://github.com/user-attachments/assets/4b1fe61d-4de1-4337-93b7-548b43362834)
+
+
